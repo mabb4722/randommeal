@@ -1,0 +1,359 @@
+html, body {
+    background-color: #fff!important;
+    color: #636b6f!important;
+    font-family: 'Raleway', sans-serif!important;
+    font-weight: 100!important;
+    height: 100vh!important;
+    margin: 0!important;
+    overflow-x: hidden!important;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.full-height {
+    height: 100vh!important;
+}
+
+.flex-center {
+    align-items: center!important;
+    display: flex!important;
+    justify-content: center!important;
+}
+
+.position-ref {
+    position: relative!important;
+}
+
+.top-right {
+    position: absolute!important;
+    right: 10px!important;
+    top: 18px!important;
+}
+
+.content {
+    text-align: center!important;
+}
+
+.title {
+    font-size: 84px!important;
+}
+
+.links > a {
+    color: #636b6f!important;
+    padding: 0 25px!important;
+    font-size: 12px!important;
+    font-weight: 600!important;
+    letter-spacing: .1rem!important;
+    text-decoration: none!important;
+    text-transform: uppercase!important;
+}
+
+.m-b-md {
+    margin-bottom: 30px !important;
+}
+
+.header{
+    width: 100% !important;
+    padding: 0 !important;
+    z-index: 10000 !important;
+    transition: all 0.2s ease-in-out !important;
+    background-color: #eaf0ff !important;
+    text-align: center !important;
+}
+#owl-demo .item img{
+    display: block !important;
+    width: 50% !important;
+    max-height: fit-content !important;
+    height: auto !important;
+}
+.inicio {
+    padding: 180px 0px !important;
+    background-image: url(../img/banner-bg.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center center !important;
+    text-align: center !important;
+}
+.inicio h4 {
+    margin-top: 0px !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    color: #fff !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+}
+.inicio h2 {
+    font-family: 'Spectral', serif !important;
+    font-size: 44px !important;
+    font-weight: 600 !important;
+    color: #f2745f !important;
+    text-transform: uppercase !important;
+}
+.inicio p {
+    color: #fff !important;
+    font-size: 14px !important;
+}
+.inicio .primary-button {
+    margin-top: 30px !important;
+}
+.primary-button a {
+    display: inline-block !important;
+    background-color: #f2745f !important;
+    color: #fff !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    padding: 12px 20px !important;
+    border-radius: 3px !important;
+    text-decoration: none !important;
+    letter-spacing: 0.5px !important;
+}
+
+.ejemplos-comida{
+    padding: 10px 0px !important;
+    display: block !important;
+}
+
+.heading{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Roboto', arial, sans-serif !important;
+}
+
+.heading h2 {
+    text-align: center !important;
+    margin-top: 0px !important;
+    margin-bottom: 80px !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+    color: #121212 !important;
+}
+.food-item {
+    background-color: #f2f6ff !important;
+    padding: 30px !important;
+}
+
+.food-item h2 {
+    margin-top: 0px !important;
+    margin-bottom: 30px !important;
+    padding-bottom: 8px !important;
+    font-family: 'Spectral', serif !important;
+    font-size: 28px !important;
+    width: 100% !important;
+    border-bottom: 1px solid #d9dde5 !important;
+    color: #121212 !important;
+}
+
+.food-item img {
+    width: 100% !important;
+    overflow: hidden !important;
+    position: relative !important;
+}
+
+.food-item .price {
+    font-size: 17px !important;
+    color: #f2745f !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.5px !important;
+    padding: 8px 14px !important;
+    position: absolute !important;
+    right: 45px !important;
+    margin-top: -40px !important;
+    background-color: rgba(250, 250, 250, 0.9) !important;
+}
+
+.food-item .text-content {
+    background-color: #fff !important;
+    padding: 20px 20px 10px 20px !important;
+}
+footer p {
+    line-height: 120px !important;
+    color: #fff !important;
+    margin-top: 5px !important;
+}
+footer {
+    background-color: #363e50 !important;
+    line-height: 130px !important;
+    text-align: center !important;
+    display: block !important;
+    margin-top: 25px !important;
+    padding: 0 !important;
+    font-family: 'Roboto', arial, sans-serif !important;
+    bottom: 0 !important;
+
+}
+footer ul li {
+    display: inline-block !important;
+    margin: 0px 5px !important;
+}
+.cook-delecious {
+    padding: 100px 0px !important;
+}
+.cook-delecious .first-image {
+    margin-right: -30px !important;
+    margin-top: 18% !important;
+}
+.cook-delecious .first-image img {
+    width: 100% !important;
+    overflow: hidden !important;
+}
+.cook-delecious .second-image img {
+    width: 100% !important;
+    overflow: hidden !important;
+}
+.cook-delecious .cook-content {
+    background-color: #f2745f !important;
+    text-align: center !important;
+    padding: 30px !important;
+}
+.cook-delecious .second-image {
+    margin-left: -30px !important;
+    margin-top: 18% !important;
+}
+.cook-content .contact-content {
+    background-color: #f3826f !important;
+    padding: 20px 30px !important;
+}
+.cook-content .contact-content span {
+    font-size: 11px !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+    letter-spacing: 1px !important;
+    border: none !important;
+    width: auto !important;
+    height: auto !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.cook-content .contact-content h6 {
+    font-size: 20px !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    color: #fff !important;
+    letter-spacing: 0.5px !important;
+}
+.cook-content span {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+    font-size: 11px !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+    letter-spacing: 1px !important;
+    border: 1px solid #da6856 !important;
+    width: 25px !important;
+    height: 25px !important;
+    display: inline-block !important;
+    line-height: 25px !important;
+    border-radius: 50% !important;
+}
+.primary-white-button a {
+    display: inline-block !important;
+    background-color: #fff !important;
+    color: #f2745f !important;
+    font-size: 13px !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    padding: 12px 20px !important;
+    border-radius: 3px !important;
+    text-decoration: none !important;
+    letter-spacing: 0.5px !important;
+}
+.cook-delecious .cook-content h4 {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+}
+.cook-delecious a:hover {
+    outline: 0 !important;
+    color: black !important;
+}
+.cook-delecious a:focus {
+    outline: 0 !important;
+    color: black !important;
+}
+.inicio .primary-button a:hover{
+    outline: 0 !important;
+    color: black !important;
+ }
+.inicio .primary-button a:focus{
+    outline: 0 !important;
+    color: black !important;
+}
+ .blog-item {
+    margin-bottom: 30px !important;
+}
+.blog-item img {
+    width: 100% !important;
+    overflow: hidden !important;
+}
+.blog-item .date {
+    font-size: 17px !important;
+    color: #f2745f !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.5px !important;
+    padding: 8px 14px !important;
+    position: absolute !important;
+    left: 15px !important;
+    top: 0px !important;
+    background-color: rgba(250, 250, 250, 0.9) !important;
+}
+.blog-item .down-content {
+    background-color: #f2f6ff !important;
+    padding: 20px 30px !important;
+}
+.blog-item .down-content h4 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 8px !important;
+    font-family: 'Spectral', serif !important;
+    font-size: 21px !important;
+    color: #121212 !important;
+}
+.blog-item .down-content span {
+    font-size: 13px !important;
+    display: inline-block !important;
+    margin-bottom: 18px !important;
+}
+.blog-item p {
+    color: #9a9a9a !important;
+    font-size: 13px !important;
+    line-height: 24px !important;
+}
+.blog-item .label-info {
+    color: rgba(250, 250, 250, 0.9) !important;
+    background-color: #f3826f !important;
+}
+.blog-item .down-content .text-button span {
+    font-size: 13px !important;
+    font-weight: 800 !important;
+    color: #f2745f !important;
+    text-decoration: none !important;
+    text-transform: uppercase !important;
+    margin-top: 12px !important;
+    display: inline-block !important;
+
+}
+
+ .aclass {
+    font-size: 13px !important;
+    font-weight: 800!important;
+    color: #f2745f!important;
+    text-decoration: none!important;
+    text-transform: uppercase!important;
+    margin-top: 12px!important;
+    display: inline-block!important;
+
+}
+
+
+
+
+
+/*bootstrap*/
